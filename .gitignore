@@ -1,0 +1,5 @@
+cache/*
+!cache/index.html
+composer.lock
+vendor/*
+.history/*
